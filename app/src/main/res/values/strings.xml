@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FragmentExercises</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_auth_welcome">Bienvenido</string>
+    <string name="profile_button_logout">Cerrar Sesion</string>
+    <string name="dialog_logout_title">Cerrar Sesion?</string>
+    <string name="dialog_logout_confirm">ok</string>
+    <string name="dialog_logout_cancel">cancelar</string>
+    <string name="profile_logout_success">Sesion Cerrada</string>
+    <string name="home_title">Inicio</string>
+    <string name="home_profile">Usuario</string>
+    <string name="menu_asistencia">Asistencia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_roll_call">Pasar Lista</string>
+    <string name="meeting_capture">Reuniones Capturadas</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="hint_ministry">Ministerio</string>
+    <string name="hint_meetingDate">Fecha de la Reunion</string>
+    <string name="hint_meetingType">Tipo de Reunion</string>
+    <string name="hint_generalRemarks">Observaciones Generales</string>
+    <string name="roll_call">Pasar Lista de Asistencia</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="btn_save_roll_call">Guardar Asistencia</string>
+</resources>
