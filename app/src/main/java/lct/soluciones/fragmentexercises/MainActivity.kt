@@ -1,15 +1,14 @@
 package lct.soluciones.fragmentexercises
 
-import android.content.Context
+import android.content.res.ColorStateList
+import android.graphics.Color
 import android.os.Bundle
-import android.util.AttributeSet
-import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.FragmentManager
 import com.google.android.material.snackbar.Snackbar
 import lct.soluciones.fragmentexercises.databinding.ActivityMainBinding
+
 
 class MainActivity : AppCompatActivity(), MainAux {
 

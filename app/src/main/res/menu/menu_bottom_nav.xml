@@ -3,14 +3,17 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/action_red"
+        android:icon="@drawable/ic_blue"
         android:title="Red"
-        app:showAsAction="never"/>
+        app:showAsAction="never" />
     <item
         android:id="@+id/action_blue"
+        android:icon="@drawable/ic_red"
         android:title="Blue"
-        app:showAsAction="never"/>
+        app:showAsAction="never" />
     <item
         android:id="@+id/action_green"
+        android:icon="@drawable/ic_green"
         android:title="Green"
-        app:showAsAction="never"/>
+        app:showAsAction="never" />
 </menu>
